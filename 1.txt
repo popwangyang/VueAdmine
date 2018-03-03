@@ -1,3 +1,7 @@
 fengzhimaster is master
 
+<<<<<<< HEAD
 fengzhi dev is dev
+=======
+fengzhi foo is foo
+>>>>>>> goo
