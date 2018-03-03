@@ -1,13 +1,3 @@
-fengzhimaster is master
+fengzhimaster is a and b
 
-<<<<<<< HEAD
-fengzhi dev is dev
-=======
-fengzhi foo is foo
->>>>>>> goo
 
-<<<<<<< HEAD
-fengzhi master is master
-=======
-fengzhicongtu is dev
->>>>>>> dev
