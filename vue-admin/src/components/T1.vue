@@ -5,7 +5,7 @@
     <li class="is-active">
       <router-link>
         <span class="icon"><i class="fas fa-image"></i></span>
-        <span>垂直导航菜单</span>
+        <span>垂直导111111111111航菜单</span>
       </router-link>
     </li>
     <li>

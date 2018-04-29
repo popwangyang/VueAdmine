@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>vue-admin</name>
+	<name>VueAdmine</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1520130970081</id>
+			<id>1525007426241</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
